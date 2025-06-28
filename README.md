@@ -1,3 +1,3 @@
 # StartDemo
 My first Git repository.
-Author - Mohad Adil
+Author - Mohad Adil khan
